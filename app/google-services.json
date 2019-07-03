@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525451453987",
+    "firebase_url": "https://robotocalendar.firebaseio.com",
+    "project_id": "robotocalendar",
+    "storage_bucket": "robotocalendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525451453987:android:f8e4d01385d83409",
+        "android_client_info": {
+          "package_name": "com.sunsosay.calendarmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525451453987-kccae9vre0df8vd5lh8ofb3p5eore7hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunsosay.calendarmark",
+            "certificate_hash": "ac0833861986e23b28f7eac65383731050aa4017"
+          }
+        },
+        {
+          "client_id": "525451453987-r15c26n729ht4cer52ev5e8j405tcr10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VyTe-AtJzhKlV8GWJp3uNwyymmvikOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525451453987-r15c26n729ht4cer52ev5e8j405tcr10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
